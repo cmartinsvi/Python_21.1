@@ -1,2 +1,2 @@
 # Python_21.1
-Exercios e projetos da matéria Phyton
+Exercícios e projetos da matéria Phyton 21.1
